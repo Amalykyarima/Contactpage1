@@ -1,0 +1,81 @@
+.contentbox{
+    text-align: center;
+    
+    padding: 50px;
+}
+
+body{
+    background-image: url(/Background.png);
+    background-color:rgb(41, 18, 170);
+    color: white;
+}
+.phone{
+    font-size: 14px;
+    padding: 20px 0px;
+}
+
+.email-box {
+    /* font-family: DM Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 42px; */
+    
+    /* identical to box height, or 124% */
+}
+
+strong{
+    font-size: 42px;
+}
+
+.social-logo img{
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+.startup{
+    padding: 30px 410px;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+}
+
+p{
+    /* font-family: DM Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 32px; */
+    /* or 145% */
+    
+    /* text-align: center; */
+}
+
+h3 {
+    color: #E93A7D;
+    
+}
+
+.no{
+    font-size: 42px;
+
+}
+
+h1{
+    font-size: 14px;
+
+    /* font-style: normal; */
+
+    /* line-height: 26px; */
+    /* identical to box height, or 186% */
+
+    text-align: center;
+    /* letter-spacing: 2px; */
+    /* text-transform: uppercase; */
+}
+/* 
+body, html{
+    width: 100%;
+} */
